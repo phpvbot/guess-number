@@ -8,7 +8,7 @@
         }
     ],
     "require-dev": {
-        "hanson/vbot": "^2.0"
+        "hanson/vbot": "^2.0.1"
     },
     "autoload": {
         "psr-4": {
