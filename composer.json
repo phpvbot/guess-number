@@ -1,0 +1,18 @@
+{
+    "name": "vbot/guess-number",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HanSon",
+            "email": "h@hanc.cc"
+        }
+    ],
+    "require-dev": {
+        "hanson/vbot": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vbot\\GuessNumber\\": "src/"
+        }
+    }
+}
