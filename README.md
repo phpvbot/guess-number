@@ -19,6 +19,10 @@ author: HanSon
 
 猜数字
 
+## 配置项
+
+无
+
 ## 扩展负责人
 
 [HanSon](https://github.com/HanSon)
